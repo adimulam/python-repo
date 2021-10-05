@@ -20,6 +20,6 @@ steps:
 outputArtifacts:
   - name: gs_python
     type: BINARY
-    location: gs_python.zip
+    location: python.zip
 
 
