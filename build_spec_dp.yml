@@ -22,5 +22,3 @@ outputArtifacts:
   - name: deployspec
     type: BINARY
     location: deploy_spec_py.yml
-
-
